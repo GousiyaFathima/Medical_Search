@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80263499997",
+    "firebase_url": "https://medsearch-45fd6.firebaseio.com",
+    "project_id": "medsearch-45fd6",
+    "storage_bucket": "medsearch-45fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80263499997:android:f4dba8f7a1fe49f8668b34",
+        "android_client_info": {
+          "package_name": "com.example.medsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80263499997-051f3id2okucnqmhiq1am07s2sr8pcmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqyupFBlttlnsLfBTqaaTs0ZewfFgA0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80263499997-051f3id2okucnqmhiq1am07s2sr8pcmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

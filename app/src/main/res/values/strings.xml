@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MEDSEA</string>
+    <string name="medsearch" tools:ignore="DuplicateDefinition">MEDSEArch</string>
+    <string name="binoculars_for_healthy_life">Binoculars for Healthy Life</string>
+    <string name="enter_email" tools:ignore="DuplicateDefinition">Enter email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="new_here_create_account">New Here? Create Account</string>
+
+    <string name="admin_login">Admin Login</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+
+    <string name="admin_registration">Admin Registration</string>
+    <string name="enter_pharmacy_name">Enter Pharmacy Name</string>
+    <string name="enter_plot_no_and_street">Enter Plot No. and Street</string>
+    <string name="enter_place">Enter Place</string>
+    <string name="enter_phone_no">Enter Phone No.</string>
+
+
+    <string name="or">or</string>
+
+    <string name="user_login">User Login</string>
+
+    <string name="admin">admin</string>
+    <string name="user">user</string>
+    <string name="click_here_to_login_as_admin">Click here to Login as Admin</string>
+    <string name="click_here_to_login_as_user">Click here to Login as User</string>
+    <string name="enter_email_id">Enter email-Id</string>
+    <string name="enter_password_atleast_6_characters">Enter password (atleast 6 characters)</string>
+    <string name="enter_password1">Enter password</string>
+    <string name="enter_email_id1">Enter Email ID</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="medicines">Medicines</string>
+    <string name="delete_a_product">Delete a product</string>
+    <string name="add_a_product">Add a product</string>
+    <string name="logout">Logout</string>
+    <string name="enter_a_product">Enter a product</string>
+    <string name="logout1">LogOut</string>
+    <string name="enter_product_name">Enter Product name</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="search">Search</string>
+    <string name="click_here_to_view_available_products">Click here to view available products</string>
+</resources>
